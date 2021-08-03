@@ -1,0 +1,20 @@
+{
+  "name": "codekit-project",
+  "version": "1.0.0",
+  "description": "CodeKit created this starter package.json file. You should customize it appropriately. (If you intend to publish this project on npm, add an entry in the 'repository' field and remove the 'private' attribute, below.)",
+  "scripts": {},
+  "author": "",
+  "license": "UNLICENSED",
+  "repository": {},
+  "private": true,
+  "dependencies": {
+    "@giantpaper/animate.scss": "^1.0.0",
+    "@popperjs/core": "^2.9.2",
+    "animate.css": "^4.1.1",
+    "bootstrap": "^5.0.2",
+    "gsap": "^3.7.1",
+    "jquery": "^3.6.0",
+    "prismjs": "^1.24.1",
+    "pug": "^3.0.2"
+  }
+}
